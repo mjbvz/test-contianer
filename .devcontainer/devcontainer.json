@@ -21,5 +21,5 @@
 
 	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
 	// "remoteUser": "node"
-	"initializeCommand": "npm init -y"
+	"initializeCommand": "touch 'you got.the'"
 }
